@@ -1,3 +1,4 @@
 import main
 
-main.randstr(50)
+main.randint()
+main.randstr()
